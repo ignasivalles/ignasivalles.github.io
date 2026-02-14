@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Ignasi Vallès. I grew up chasing waves. Somewhere along the way that turned into a PhD in physical oceanography, probably not a coincidence. I spend my time trying to understand how the ocean works, and what it tells us about the climate and sometimes about life, but without taking it too seriously.
 
 ### My story
 
