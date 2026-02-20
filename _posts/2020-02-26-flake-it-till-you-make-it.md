@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benvingut!
+title: Benvingut/da!
 subtitle: My first post
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
