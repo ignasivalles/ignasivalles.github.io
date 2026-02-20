@@ -4,8 +4,4 @@ title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Ignasi Vallès. I grew up chasing waves. Somewhere along the way that turned into a PhD in physical oceanography, probably not a coincidence. I spend my time trying to understand how the ocean works, and what it tells us about the climate and sometimes about life, but without taking it too seriously.
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Ignasi Vallès. I grew up chasing waves. Somewhere along the way that turned into a PhD in physical oceanography, probably not a coincidence. I spend my time trying to understand how currents, winds, heat, and freshwater shape the ocean, and how the ocean feeds back onto climate. Along that journey I’ve studied and lived in different, always-curious places, a combination that keeps me permanently in observe mode. 
