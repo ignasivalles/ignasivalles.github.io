@@ -23,6 +23,6 @@ There are actually two pycnoclines. The shallow one, the seasonal pycnocline, fo
 
 The ocean, it turns out, does not merely sit beneath interannual and decadal variability, it records it all the way down to the main pycnocline. The major climate modes that govern our climate year to year leave their fingerprint on the deep ocean's vertical structure. That much Somavilla et al. have now shown.
 
-But a fingerprint pressed into something as dynamic as the ocean does not simply sit there. The pycnocline controls how the ocean stores and releases heat, how it feeds the surface with nutrients and oxygen, how it mediates the exchange between the ocean's interior and the atmosphere above. It is not a passive recorder.
+But a fingerprint pressed into something as dynamic as the ocean does not simply sit there. As we initially mentioned, the pycnocline controls how the ocean stores and releases heat, how it feeds the surface with nutrients and oxygen, how it mediates the exchange between the ocean's interior and the atmosphere above. It is not a passive recorder.
 So the question is open: if climate variability leaves its fingerprint on the main pycnocline, does that fingerprint return as a deep echo, shaping the very climate modes that shaped it?
 
